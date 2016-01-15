@@ -1,0 +1,28 @@
+name: still
+favicon: null
+layout_spectrum: 0.11157234967686236
+typography_spectrum: 0.8176744733937085
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3648853818885982
+  lightness: 0.742773744976148
+  saturation: 0.6892337913159281
+  rhythmicContrast: 0.40169529733248055
+purpose: []
