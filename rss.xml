@@ -4,8 +4,15 @@
         <description><![CDATA[still]]></description>
         <link>https://thegrid.ai/still/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 00:02:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jan 2016 08:41:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/still/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[sivun otsake]]></title>
+            <description><![CDATA[<article><h1>sivun otsake</h1><p>Tämä on sivu. Se on pelkkä sivuei muuta. paitsi nyt myös kotisivu.</p></article>]]></description>
+            <link>https://thegrid.ai/still/d6d98cf3-e359-4c02-bc5f-fdf8e45542bc/index.html</link>
+            <guid isPermaLink="false">d6d98cf3-e359-4c02-bc5f-fdf8e45542bc</guid>
+            <pubDate>Sat, 16 Jan 2016 08:41:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/97e5b415-22eb-4096-9583-60ae0d46b9a8.jpg">]]></description>
